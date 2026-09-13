@@ -2,7 +2,7 @@
 
 A protocol concept + interactive simulation addressing a real, documented weakness in how low-cost EV Battery Management Systems (BMS) pair with a phone over Bluetooth.
 
-**🔗 Live demo:** `[paste your GitHub Pages link here]`
+**🔗 Live demo:** `[https://arpitm1231.github.io/Ultrasonic-Assisted-BLE-Authentication-for-EV-BMS/]`
 
 ---
 
